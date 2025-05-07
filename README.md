@@ -1,6 +1,6 @@
 # EmailMasterPT
 
-[![PyPI version](https://badge.fury.io/py/emailmasterpt.svg)](https://badge.fury.io/py/emailmasterpt)
+[![PyPI version](https://badge.fury.io/py/emailmasterpt.svg)](https://pypi.org/project/emailmasterpt/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 O EmailMasterPT é um pacote Python que simplifica o envio de e-mails através de diversos provedores com suporte para agendamento e anexos.
